@@ -1,5 +1,19 @@
 # 100 Days Of Code - Log
 
+
+### Day 1: January 21, 2020
+
+**Today's Progress**: Slipped backwards while going forwards. A bit of reading about testing of Hooks-based components leads me down a side-alley endeavouring to create custom hooks for - initially - input changes in the component, that can then be neatly used for testing
+
+**Thoughts:** Not sure if this is the best way to go (is this going to be necessary for all my state hooks? However, the refactor to custom hooks seems neat. Getting there. An hour is a very short time for this (but also need to have a life following work hours)
+
+**Links to references**
+- [Reactjs custom hooks docs](https://reactjs.org/docs/hooks-custom.html)
+- [React hooks test custom hooks with enzyme](https://dev.to/flexdinesh/react-hooks-test-custom-hooks-with-enzyme-40ib)
+- [Simplifying controlled inputs with hooks](https://rangle.io/blog/simplifying-controlled-inputs-with-hooks/)
+
+**Link to work:** Local version only till I get a test running
+
 ### Day 0: January 20, 2020
 
 **Today's Progress**: Started work on unit tests for React Register component. Outlined the tests I want to make.
