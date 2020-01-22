@@ -1,5 +1,10 @@
 # 100 Days Of Code - Log
 
+### Day 2: January 22, 2020
+
+**Today's Progress**: Success! Acheived a satisfying refactor of onChange form fields (including password reset and form reset functionality) as a custom hook, allowing abstraction and re-useability of the useFormFields hook in my login component (and any other forms) - which should keep things neat.
+
+**Thoughts:** Testing of the custom hook is the next step - [Test custom hooks with enzyme](https://dev.to/flexdinesh/react-hooks-test-custom-hooks-with-enzyme-40ib)
 
 ### Day 1: January 21, 2020
 
