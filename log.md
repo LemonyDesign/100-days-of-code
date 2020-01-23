@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 3: January 23, 2020
+
+**Today's Progress**: Not such a resultsy hour... will need to take a step back and get down to testing basics to work up my first few. I have got my custom hook shared to two forms, so that's all good. 
+
+**Thoughts:** Testing basics: good old KCD-time
+https://kentcdodds.com/blog/how-to-add-testing-to-an-existing-project
+https://kentcdodds.com/blog/testing-implementation-details
+
 ### Day 2: January 22, 2020
 
 **Today's Progress**: Success! Acheived a satisfying refactor of onChange form fields (including password reset and form reset functionality) as a custom hook, allowing abstraction and re-useability of the useFormFields hook in my login component (and any other forms) - which should keep things neat.
