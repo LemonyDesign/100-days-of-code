@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 4: February 3, 2020
+
+**Hiatus**: Time off for good behaviour - life got in the way, for a good coding reason (new job, yay). 
+
+**Today's Progress**: Refactor of Redux reducer and snapshot tests for refactored code in my app. 19 of 20 tests now working - struggling with one test I'm having issues with.
+
+**Thoughts**
+The test that I'm struggling with may need to be re-written for TDD, as it pre-cursors another refactor, working towards new functionality from Node.js and database integration. This is an interesting challenge.
+
 ### Day 3: January 23, 2020
 
 **Today's Progress**: Not such a resultsy hour... will need to take a step back and get down to testing basics to work up my first few. I have got my custom hook shared to two forms, so that's all good. 
